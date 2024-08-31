@@ -1,6 +1,6 @@
 # BacRoles
 
-Steps to download:
+# Steps to download:
 1. Go to steam
 2. Right-click on Among Us.
 3. Click "Properties."
